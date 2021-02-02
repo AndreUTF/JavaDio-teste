@@ -10,7 +10,9 @@ public class main {
         System.out.println("Test Java");
         System.out.println("Test Java");
         System.out.println("Test Java");
-
+        System.out.println("Test Java");
+        System.out.println("Test Java");
+        System.out.println("Test Java");
     }
 }
 
